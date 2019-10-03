@@ -15,8 +15,6 @@ redirect_from:
 
 
 
-
-======
 Hi! I am a final-year undergraduate in the Department of Computer Science and Engineering at IIT Kharagpur. 
 
 To be brief, my primary research interests are Programming Languages, Compilers, Computer Networks(especially SDNs), nevertheless, my zeal for any computer systems field is ubiquitous.
