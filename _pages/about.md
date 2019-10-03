@@ -16,10 +16,7 @@ redirect_from:
 
 
 
-
-
-
-
+======
 Hi! I am a final-year undergraduate in the Department of Computer Science and Engineering at IIT Kharagpur. 
 
 To be brief, my primary research interests are Programming Languages, Compilers, Computer Networks(especially SDNs), nevertheless, my zeal for any computer systems field is ubiquitous.
@@ -28,7 +25,7 @@ I spent a major chunk of my sophomore and junior year working as a motion-planni
 
 Presently, I am engaged in my bachelors's thesis project in SDN architectures under Prof. Sandip Chakraborty.  
 
-On a lighter note, I love hanging out with my AGV te at Cafe Coffee Day(which is an Indian Starbucks) and the occasional football game.
+On a lighter note, I love hanging out with my AGV mates at Cafe Coffee Day(which is an Indian Starbucks) and, the occasional football game.
 
 <!-- Something 
 ======

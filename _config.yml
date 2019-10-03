@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : 
+title                    : ""
 title_separator          : ""
-name                     : #&name "G Rahul Kranti Kiran"
-description              : &description "Final-Year Undergraduate at IIT Kharagpur"
+name                     : &name "Rahul"
+description              : &description "Final-Year Undergraduate"
 url                      : https://krantikiran68.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "krantikiran68/KrantiKiran.github.io"
