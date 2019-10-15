@@ -57,4 +57,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams -->
-<iframe src="https://drive.google.com/file/d/1dfVaUq-8vsHm0TnPF4DJM0AIgtSfg-Nb/preview" width="720" height="640"></iframe>
+<iframe src="https://drive.google.com/file/d/1dfVaUq-8vsHm0TnPF4DJM0AIgtSfg-Nb/preview" width="640" height="530"></iframe>
