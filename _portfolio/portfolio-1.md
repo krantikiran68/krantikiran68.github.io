@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "AGV"
+excerpt: "Having spent almost half of my undergraduate years as a member of this group, this gorup is the foundation for many of my skills. I have been involved in multiple projects and teamin the group and this is a short summary of all that work."
 collection: portfolio
 ---
 
